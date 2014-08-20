@@ -1,4 +1,9 @@
 body {
 	font-size: 0.8em;
 	font-family: arial, sans-serif;
+    color:cyan;
+}
+
+strong{ 
+    color:blue;
 }
