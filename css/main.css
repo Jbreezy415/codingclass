@@ -27,4 +27,27 @@
 
 }
 
+.index-title{ color: #3399FF;
+}
+
+.videos-title{ color: #FF0000;
+    text-decoration: underline;
+}
+
+.links li a { color: #FF66FF;
+}
+
+.links li a:hover { color: #66FF33;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
 
