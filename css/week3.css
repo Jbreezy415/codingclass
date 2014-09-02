@@ -1,0 +1,19 @@
+h1 { color: #00FF00;
+    text-decoration: underline;
+}
+
+p { padding: 20px;
+    color: #3366FF;
+}
+a{ color: #FF0000;
+    text-decoration: underline;
+}
+
+a:hover { color: #FFFF00;
+    text-decoration: none;
+}
+
+
+
+
+
