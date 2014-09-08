@@ -1,13 +1,20 @@
+.container {
+    width: 740px;
+    margin: auto;
+}
 
 .main-header {
 	height: 110px;
     color: #FFF;
     background: #3C3C74;
+
 }
 
 .main-container{
+	float: right;
+	width: ;
 	padding: 20px;
-	background:lightgrey;
+	background:#FFF;
 }
 
 .main-footer{
@@ -20,5 +27,17 @@
 	padding-top: 20px;
 	color: #FFF;
 	text-align: center;
-	font-size: 24px;
+	font-size: 50px;
 }
+
+.back {
+	background: ##1A1A4C;
+}
+ .image {
+
+ }
+
+
+
+
+
