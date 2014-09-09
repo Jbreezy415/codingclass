@@ -1,6 +1,8 @@
 .container {
     width: 740px;
     margin: auto;
+    background: lightgrey;
+    padding-bottom: 500px;
 }
 
 .main-header {
@@ -10,15 +12,14 @@
 
 }
 
-.main-container{
-	float: right;
-	width: ;
+
+.main-parah{
 	padding: 20px;
 	background:#FFF;
+	float: right;
+	width: 200px;
 }
-
 .main-footer{
-	heignt: 100px;
 	color: #FFF;
 	background: #222;
 }
@@ -27,17 +28,29 @@
 	padding-top: 20px;
 	color: #FFF;
 	text-align: center;
-	font-size: 50px;
+	font-size: 60px;
+}
+
+.basebottom {
+	padding-top: 10px;
+	color: #FFF;
+	text-align: center;
+	font-size: 10px;
+	padding-bottom: 20px
 }
 
 .back {
-	background: ##1A1A4C;
+	background: #1A1A4C;
 }
  .image {
 
  }
 
+.nav {
+	float: left;
+	width: 225px;
 
+}
 
 
 
