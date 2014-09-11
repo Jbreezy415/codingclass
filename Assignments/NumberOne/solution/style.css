@@ -1,0 +1,45 @@
+.container{
+	width: 960px;
+	margin: 0 auto;
+	border: 6px solid red;
+}
+
+.main-header{
+	text-align: center;
+	height:150px;
+	background-color: #666699; 
+}
+
+.main-header span{
+	color: #FFF;
+	font-size: 78px;
+}
+
+.main-footer{
+	color: #fff;
+	padding-top: 10px;
+	text-align: center;
+	height: 40px;
+	background-color: #855c33;
+}
+
+
+.main-content{
+	width: 100px;
+
+}
+
+/*TOTAL 960PX*/
+.main-content .sidebar{
+	width: 160px;
+	float: left;
+
+}
+
+
+
+.main-content .content{
+	width: 800px;
+	float: left;
+}
+
