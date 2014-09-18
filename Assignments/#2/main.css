@@ -1,0 +1,54 @@
+.navigation {
+ background-color: #29297A;
+    color: #FF0000;
+    height: 50px;
+}
+
+
+.navigation ul { 
+    list-style: none;
+}
+
+.navigation ul li { 
+    padding: 0 15px;
+    float:left;
+    line-height: 50px;
+}
+.navigation ul li a { 
+    color: #FF66CC;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navigation ul li a:hover {
+	color: #CC99FF;
+    text-decoration: none;
+
+}
+
+.index-title{ color: #3399FF;
+}
+
+.main-header {
+    height: 110px;
+    color: #FFF;
+    background: royalblue;
+}
+
+.main-footer {
+    heignt: 100px;
+    color: #FFF;
+    background: #FF0000;
+}
+
+.main-footer ul{
+    
+}
+
+.base {
+    padding-top: 20px;
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+}
